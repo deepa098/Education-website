@@ -13,7 +13,7 @@ const Navbar = () => {
     <>
       <nav className="navbar navbar-expand-lg navbar-light bg-white">
         <div className="container d-flex w-100">
-          <div className="navbar-brand"><img src="/images/logo.png" alt="logo" style={{width: "80%"}} /></div>
+          <div className="navbar-brand"><img src="../images/logo.png" alt="logo" style={{width: "80%"}} /></div>
           <div className="navbar-collapse d-lg-flex d-md-none d-none" id="navbarSupportedContent">
             <ul className="navbar-nav ms-auto">
               <li className="nav-item mx-2">

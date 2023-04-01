@@ -77,7 +77,7 @@ const Hero = () => {
                                 <div className="home-card home-card-1">
                                     <div className="d-flex flex-row align-items-center ">
                                         <div className='user-images me-4'>
-                                            <img src="/images/user-4.avif" alt="user" className="img-fluid" />
+                                            <img src="./images/user-4.avif" alt="user" className="img-fluid" />
                                         </div>
                                         <div className="home-details">
                                             <p className='primary-text '>Scarlet Witch</p>

@@ -5,7 +5,7 @@
   "description": "Get Your Free Course",
   "icons" : [  
       {
-          "src" : "./images/Itaims-favicon-icon.png",
+          "src" : "./images/education.png",
           "type" : "image/png",
           "sizes" : "512x512",
           "purpose": "any maskable"
